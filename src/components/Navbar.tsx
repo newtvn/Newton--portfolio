@@ -40,7 +40,7 @@ const Navbar = () => {
       className={cn(
         'fixed top-0 w-full z-50 transition-all duration-300 py-4',
         scrolled
-          ? 'bg-background/80 backdrop-blur-lg shadow-sm'
+          ? 'bg-background/80 backdrop-blur-lg shadow-md'
           : 'bg-transparent'
       )}
     >
@@ -103,7 +103,7 @@ const Navbar = () => {
               <a
                 key={item.name}
                 href={item.href}
-                className="px-3 py-2 text-sm font-medium hover:bg-accent/10 rounded-md"
+                className="px-3 py-2 text-sm font-medium hover:bg-secondary/50 rounded-md"
                 onClick={() => setIsOpen(false)}
               >
                 {item.name}
