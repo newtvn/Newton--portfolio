@@ -106,7 +106,7 @@ const Footer = () => {
           
           <div className="border-t border-border pt-6 flex flex-col md:flex-row justify-between items-center">
             <div className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} Newton Brian Wanyonyi. All rights reserved.
+              © {new Date().getFullYear()} Newton Brian Nyongesa. All rights reserved.
             </div>
             <div className="mt-4 md:mt-0">
               <nav className="flex flex-wrap gap-x-6 gap-y-2 text-sm justify-center">

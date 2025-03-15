@@ -13,7 +13,7 @@ const Hero = () => {
             <p className="subtitle animate-fade-up animate-delay-100">Chief Executive Officer & Full Stack Developer</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold font-display tracking-tight animate-fade-up animate-delay-200">
               Newton Brian <br /> 
-              <span className="text-primary">Wanyonyi</span>
+              <span className="text-primary">Nyongesa</span>
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl animate-fade-up animate-delay-300">
               Co-founder and computer science student with expertise in full stack development. 
@@ -35,7 +35,7 @@ const Hero = () => {
           <div className="absolute inset-0 bg-black/50 z-10"></div>
           <img 
             src="https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0MDE1OTE0Mg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080" 
-            alt="Newton Brian Wanyonyi" 
+            alt="Newton Brian Nyongesa" 
             className="object-cover h-full w-full"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-background via-background/50 to-transparent z-0"></div>
