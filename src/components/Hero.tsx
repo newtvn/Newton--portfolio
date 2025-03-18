@@ -23,7 +23,7 @@ const Hero = () => {
           
           <div className="flex flex-wrap gap-4 animate-fade-up animate-delay-400">
             <Button size="lg" className="rounded-full" asChild>
-              <a href="./Newton_Brian_Resume.pdf" download>Download Resume</a>
+              <a href="/Newton_Brian_Resume.pdf" download>Download Resume</a>
             </Button>
             <Button size="lg" variant="outline" className="rounded-full" asChild>
               <a href="#projects">View Projects</a>
